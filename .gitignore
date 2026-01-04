@@ -136,6 +136,7 @@ release/
 # Build artifacts
 dist/
 build/
+!build/entitlements.mac.plist
 
 # macOS
 .DS_Store
